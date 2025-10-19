@@ -5,3 +5,7 @@ python-dotenv
 transformers
 sentencepiece
 sentence-transformers
+pydantic
+requests
+streamlit
+ollama

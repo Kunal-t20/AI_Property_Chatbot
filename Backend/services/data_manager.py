@@ -190,4 +190,4 @@ class DataManager:
             for _, row in df_filtered.iterrows()
         ]
 
-        return properties_list[:10]
+        return properties_list[:50]

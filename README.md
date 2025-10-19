@@ -125,6 +125,6 @@ Notes
 
 Ensure all CSVs are placed in Backend/data/.
 
- max 10 results are returned for efficiency.
+ max 50 results are returned for efficiency.
 
 City detection uses predefined keywords—addresses outside mapped cities may show as "Unknown City".
